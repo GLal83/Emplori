@@ -578,7 +578,7 @@ export default function ApplicantDashboard() {
         </header>
 
         {/* Main Content */}
-        <main className="max-w-[1400px] mx-auto px-6 py-8 pb-24">
+        <main className="max-w-[1400px] mx-auto px-6 py-8 pb-20">
           {/* Page Title */}
           <div className="mb-8">
             <h1 className="text-4xl font-bold text-slate-900 mb-2">Emplori Applicant Database</h1>
